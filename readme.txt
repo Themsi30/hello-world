@@ -1,2 +1,1 @@
-my name is nomathemba
-i love elamithemba
+hello_world
